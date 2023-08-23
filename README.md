@@ -2,13 +2,29 @@
 
 ## Overview
 
-- [Progress](#-progress)
-- [Challenges](#-challenges)
-- [React App Setup](#-react)
+- [Progress](#progress)
+- [Challenges](#challenges)
+- [React App Setup](#react)
+- [TODO LIST](#todo)
+
+## TODO
+
+- Add limit function in db
+- Add User name and add to chatbox design
+- Have message list auto scroll to bottom
+- Different colors for other users in a rotating list
+- add timestamps in the message boxes(already saved in db)
+- Media query to make it fit differnt devices.
 
 ## Progress
 
-**8/22/23**
+**8/23/23**
+
+- Added Firebase connection
+- Added Google Authorization modal
+- Updated ChatBox component to read and write data to db
+- Updated CSS to show user message differently, and show latest message at the bottom
+  **8/22/23**
 
 - Updated chatbox design
 
