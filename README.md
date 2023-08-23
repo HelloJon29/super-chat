@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# Super Chat App
+
+## Overview
+
+- [Progress](#Progress)
+- [Challenges](#Challenges)
+- [React App Setup](#React)
+
+## Progress
+
+**8/22/23**
+
+- Updated chatbox design
+
+**8/16/23**
+
+- Initialized REACT project
+- Hardcoded chat box values
+- created initial design of chatbox and message list
+
+## Challenges
+
+# React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
