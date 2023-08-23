@@ -20,7 +20,7 @@
 
 .message-list {
   flex: 1;
-  max-height: 50px;
+  max-height: 450px;
   padding: 2px;
   margin: 2px 0;
   background-color: aliceblue;
@@ -29,7 +29,7 @@
   overflow-y: auto;
 }
 
-.message {
+.own-message {
   padding: 5px;
   margin: 5px 0;
   background-color: #64a2df;
