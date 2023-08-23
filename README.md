@@ -2,9 +2,9 @@
 
 ## Overview
 
-- [Progress](#Progress)
-- [Challenges](#Challenges)
-- [React App Setup](#React)
+- [Progress](#-progress)
+- [Challenges](#-challenges)
+- [React App Setup](#-react)
 
 ## Progress
 
